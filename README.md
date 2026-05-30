@@ -221,14 +221,6 @@ service cloud.firestore {
 | `reminder_settings.jpg` | Reminder settings |
 | `about.jpg` | About dialog |
 
----
-
-## 👨‍💻 Author
-
-**Paul** — [@YOUR_GITHUB](https://github.com/YOUR_GITHUB)
-
----
-
 ## 📄 License
 
 This project is for educational purposes. Feel free to use it as a reference for your own Flutter + Firebase projects.
