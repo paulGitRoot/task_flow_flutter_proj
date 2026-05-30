@@ -41,7 +41,7 @@ A smart mobile task management app built with **Flutter** and **Firebase**. Task
 
 ---
 
-### Drawer & Smart Suggestions
+### Drawer
 
 | Drawer |
 |--------|
