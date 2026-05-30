@@ -150,7 +150,7 @@ lib/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/taskflow-plus.git
+   git clone https://github.com/paulGitRoot/taskflow-plus.git
    cd taskflow-plus
    ```
 
