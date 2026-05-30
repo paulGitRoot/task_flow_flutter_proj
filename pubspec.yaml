@@ -1,0 +1,41 @@
+name: first_project
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.12.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+  # Firebase
+  firebase_core: ^4.9.0
+  firebase_auth: ^6.5.1
+  cloud_firestore: ^6.4.1
+
+  # State & routing
+  flutter_riverpod: ^3.3.1
+  go_router: ^17.2.3
+  provider: ^6.1.2
+
+  # UI
+  google_fonts: ^8.1.0
+  fl_chart: ^0.69.0
+
+  # Storage & notifications
+  shared_preferences: ^2.3.3
+  flutter_local_notifications: ^17.2.3
+  timezone: ^0.9.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
